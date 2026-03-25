@@ -141,11 +141,12 @@ git clone https://github.com/your-username/ai-maze-solver.git
 
 ---
 📸 Screenshots
-<img width="1920" height="1200" alt="Screenshot 2026-03-25 212009" src="https://github.com/user-attachments/assets/7d86838b-9019-4e4b-b58b-b7f55a6f8252" />
-<img width="1920" height="1200" alt="Screenshot 2026-03-25 211945" src="https://github.com/user-attachments/assets/e6ac3aca-45c0-4530-837d-cd3732a480e6" />
-By BFS:
 <img width="1920" height="1200" alt="Screenshot 2026-03-25 211923" src="https://github.com/user-attachments/assets/93d8c79a-eeb7-4cb9-b092-6a1107272b1e" />
 
+<img width="1920" height="1200" alt="Screenshot 2026-03-25 211945" src="https://github.com/user-attachments/assets/e6ac3aca-45c0-4530-837d-cd3732a480e6" />
+By BFS:
+
+<img width="1920" height="1200" alt="Screenshot 2026-03-25 212009" src="https://github.com/user-attachments/assets/7d86838b-9019-4e4b-b58b-b7f55a6f8252" />
 
 ## 📈 Future Enhancements
 
